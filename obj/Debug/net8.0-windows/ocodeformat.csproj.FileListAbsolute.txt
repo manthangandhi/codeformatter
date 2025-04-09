@@ -1,0 +1,922 @@
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.csproj.AssemblyReference.cache
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.AssemblyInfoInputs.cache
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.AssemblyInfo.cs
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.exe
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.deps.json
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.runtimeconfig.json
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.pdb
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Humanizer.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Bcl.AsyncInterfaces.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.CSharp.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.VisualBasic.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.Workspaces.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.Composition.AttributedModel.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.Composition.Convention.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.Composition.Hosting.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.Composition.Runtime.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.Composition.TypedParts.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.IO.Pipelines.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodefor.29849FEB.Up2Date
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/refint/ocodeformat.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.pdb
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.genruntimeconfig.cache
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/obj/Debug/net8.0-windows/ref/ocodeformat.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/OpenAI.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/OpenAI-DotNet.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.ClientModel.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.Memory.Data.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Humanizer.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Bcl.AsyncInterfaces.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Build.Locator.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.pdb
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.pdb
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Configuration.Abstractions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Configuration.Binder.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Configuration.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.DependencyInjection.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Logging.Abstractions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Logging.Configuration.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Logging.Console.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Logging.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Options.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Primitives.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Newtonsoft.Json.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Buffers.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Collections.Immutable.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.CommandLine.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.AttributedModel.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.Convention.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.Hosting.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.Runtime.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.TypedParts.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Diagnostics.DiagnosticSource.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.IO.Pipelines.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Memory.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Numerics.Vectors.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Reflection.Metadata.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Runtime.CompilerServices.Unsafe.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Text.Encoding.CodePages.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Text.Encodings.Web.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Text.Json.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Threading.Channels.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Threading.Tasks.Extensions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.ValueTuple.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/cs/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/cs/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/de/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/de/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/es/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/es/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/fr/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/fr/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/it/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/it/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ja/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ja/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ko/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ko/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pl/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pl/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pt-BR/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pt-BR/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ru/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ru/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/tr/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/tr/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hans/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hant/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Humanizer.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Bcl.AsyncInterfaces.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Build.Locator.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.pdb
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.pdb
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Configuration.Abstractions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Configuration.Binder.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Configuration.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.DependencyInjection.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Logging.Abstractions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Logging.Configuration.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Logging.Console.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Logging.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Options.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Primitives.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Newtonsoft.Json.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Collections.Immutable.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.CommandLine.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.AttributedModel.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.Convention.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.Hosting.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.Runtime.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.TypedParts.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.IO.Pipelines.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Reflection.Metadata.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Text.Encoding.CodePages.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Text.Encodings.Web.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Text.Json.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Threading.Channels.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/cs/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/cs/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/de/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/de/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/es/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/es/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/fr/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/fr/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/it/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/it/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ja/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ja/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ko/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ko/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pl/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pl/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pt-BR/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pt-BR/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ru/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ru/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/tr/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/tr/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hans/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hant/System.CommandLine.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Build.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Build.Framework.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Build.Tasks.Core.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Build.Utilities.Core.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Extensions.Logging.Abstractions.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.NET.StringTools.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/Newtonsoft.Json.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/System.Reflection.MetadataLoadContext.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+//Mac/Home/Documents/windows_vs/ocodeformat/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Humanizer.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Build.Locator.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.pdb
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.CodeAnalysis.pdb
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Configuration.Binder.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Configuration.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.DependencyInjection.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Logging.Configuration.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Logging.Console.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Logging.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Options.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Microsoft.Extensions.Primitives.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/Newtonsoft.Json.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Buffers.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Collections.Immutable.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.CommandLine.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.AttributedModel.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.Convention.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.Hosting.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.Runtime.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Composition.TypedParts.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Diagnostics.DiagnosticSource.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.IO.Pipelines.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Memory.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Numerics.Vectors.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Reflection.Metadata.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Runtime.CompilerServices.Unsafe.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Text.Encoding.CodePages.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Text.Encodings.Web.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Text.Json.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Threading.Channels.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.Threading.Tasks.Extensions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/System.ValueTuple.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/cs/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/de/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/de/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/es/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/es/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/fr/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/it/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/it/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ja/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ko/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pl/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/pt-BR/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/ru/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/tr/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hans/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-net472/zh-Hant/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Humanizer.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Build.Locator.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.pdb
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.CodeAnalysis.pdb
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Configuration.Binder.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Configuration.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.DependencyInjection.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Logging.Configuration.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Logging.Console.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Logging.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Options.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Microsoft.Extensions.Primitives.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/Newtonsoft.Json.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Collections.Immutable.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.CommandLine.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.AttributedModel.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.Convention.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.Hosting.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.Runtime.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Composition.TypedParts.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.IO.Pipelines.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Reflection.Metadata.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Text.Encoding.CodePages.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Text.Encodings.Web.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Text.Json.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/System.Threading.Channels.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/cs/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/de/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/de/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/es/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/es/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/fr/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/it/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/it/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ja/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ko/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pl/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/pt-BR/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/ru/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/tr/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hans/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/BuildHost-netcore/zh-Hant/System.CommandLine.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ocodeformat
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.deps.json
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.runtimeconfig.json
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ocodeformat.pdb
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Humanizer.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Build.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Build.Framework.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Build.Tasks.Core.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Build.Utilities.Core.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.CSharp.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.NET.StringTools.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.SqlServer.TransactSql.ScriptDom.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/Newtonsoft.Json.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/OpenAI.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/OpenAI-DotNet.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/PoorMansTSqlFormatterLib35.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.ClientModel.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.Composition.AttributedModel.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.Composition.Convention.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.Composition.Hosting.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.Composition.Runtime.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.Composition.TypedParts.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.IO.Pipelines.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.Memory.Data.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/System.Reflection.MetadataLoadContext.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/cs/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/de/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/es/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/fr/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/it/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ja/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ko/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pl/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/pt-BR/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/ru/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/tr/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hans/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/zh-Hant/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/bin/Debug/net8.0-windows/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.csproj.AssemblyReference.cache
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.AssemblyInfoInputs.cache
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.AssemblyInfo.cs
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.csproj.CoreCompileInputs.cache
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodefor.29849FEB.Up2Date
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/refint/ocodeformat.dll
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.pdb
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ocodeformat.genruntimeconfig.cache
+/Users/manthangandhi/Documents/windows_vs/ocodeformat - Copy/ocodeformat/obj/Debug/net8.0-windows/ref/ocodeformat.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Humanizer.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Bcl.AsyncInterfaces.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Build.Locator.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.pdb
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.pdb
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Configuration.Abstractions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Configuration.Binder.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Configuration.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.DependencyInjection.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Logging.Abstractions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Logging.Configuration.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Logging.Console.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Logging.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Options.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Microsoft.Extensions.Primitives.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\Newtonsoft.Json.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Buffers.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Collections.Immutable.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.CommandLine.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Composition.AttributedModel.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Composition.Convention.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Composition.Hosting.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Composition.Runtime.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Composition.TypedParts.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Diagnostics.DiagnosticSource.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.IO.Pipelines.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Memory.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Numerics.Vectors.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Reflection.Metadata.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Text.Encoding.CodePages.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Text.Encodings.Web.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Text.Json.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Threading.Channels.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\System.ValueTuple.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\cs\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\cs\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\de\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\de\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\es\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\es\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\fr\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\fr\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\it\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\it\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ja\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ja\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ko\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ko\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\pl\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\pl\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ru\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\ru\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\tr\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\tr\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Humanizer.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Bcl.AsyncInterfaces.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Build.Locator.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.pdb
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.pdb
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Configuration.Abstractions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Configuration.Binder.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Configuration.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.DependencyInjection.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Logging.Abstractions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Logging.Configuration.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Logging.Console.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Logging.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Options.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Microsoft.Extensions.Primitives.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\Newtonsoft.Json.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Collections.Immutable.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.CommandLine.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Composition.AttributedModel.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Composition.Convention.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Composition.Hosting.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Composition.Runtime.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Composition.TypedParts.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.IO.Pipelines.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Reflection.Metadata.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Text.Encoding.CodePages.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Text.Encodings.Web.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Text.Json.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\System.Threading.Channels.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\cs\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\cs\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\de\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\de\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\es\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\es\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\fr\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\fr\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\it\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\it\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ja\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ja\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ko\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ko\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\pl\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\pl\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ru\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\ru\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\tr\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\tr\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ocodeformat.exe
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ocodeformat.deps.json
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ocodeformat.runtimeconfig.json
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ocodeformat.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ocodeformat.pdb
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Humanizer.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.Build.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.Build.Framework.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.Build.Tasks.Core.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.Build.Utilities.Core.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.NET.StringTools.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\OpenAI.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\OpenAI-DotNet.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\PoorMansTSqlFormatterLib35.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.ClientModel.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Memory.Data.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Reflection.MetadataLoadContext.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\System.Text.Json.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\cs\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pl\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\tr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodeformat.csproj.AssemblyReference.cache
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodeformat.GeneratedMSBuildEditorConfig.editorconfig
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodeformat.AssemblyInfoInputs.cache
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodeformat.AssemblyInfo.cs
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodeformat.csproj.CoreCompileInputs.cache
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodefor.29849FEB.Up2Date
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodeformat.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\refint\ocodeformat.dll
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodeformat.pdb
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ocodeformat.genruntimeconfig.cache
+\\mac\Home\Documents\windows_vs\ocodeformat - Copy\ocodeformat\obj\Debug\net8.0-windows\ref\ocodeformat.dll

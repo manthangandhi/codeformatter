@@ -1,0 +1,34 @@
+2025-04-08 02:37:26 - Source Code: 
+select o.id,o.orderdate,o.total,c.name 
+from orders o 
+inner join customers c on o.customerid=c.id 
+where o.orderdate>'2021-01-01' and c.isactive=1 
+group by o.id,o.orderdate,o.total,c.name 
+having sum(o.total)>500 
+order by o.orderdate desc;
+2025-04-08 02:37:26 - SQL code formatted successfully.
+2025-04-08 02:38:58 - Source Code: 
+using System;using System.Collections.Generic;using System.Linq;namespace TestApp{public class Customer{public int Id{get;set;}public string Name{get;set;}public bool IsActive{get;set;}public Customer(int id,string name,bool isActive){Id=id;Name=name;IsActive=isActive;}}public class Program{static void Main(){var customers=new List<Customer>{new Customer(1,"Alice",true),new Customer(2,"Bob",false),new Customer(3,"Charlie",true)};var activeNames=customers.Where(c=>c.IsActive).Select(c=>c.Name);foreach(var n in activeNames){Console.WriteLine("Active: "+n);}var bob=customers.FirstOrDefault(c=>c.Name=="Bob");if(bob!=null){Console.WriteLine("Found Bob");}else{Console.WriteLine("Bob not found");}}}}
+2025-04-08 02:38:59 - VB formatting errors: Line 1: using System;using System.Collections.Generic;using System.Linq;namespace TestApp{public class Customer{public int Id{get;set;}public string Name{get;set;}public bool IsActive{get;set;}public Customer(int id,string name,bool isActive){Id=id;Name=name;IsActive=isActive;}}public class Program{static void Main(){var customers=new List<Customer>{new Customer(1,"Alice",true),new Customer(2,"Bob",false),new Customer(3,"Charlie",true)};var activeNames=customers.Where(c=>c.IsActive).Select(c=>c.Name);foreach(var n in activeNames){Console.WriteLine("Active: "+n);}var bob=customers.FirstOrDefault(c=>c.Name=="Bob");if(bob!=null){Console.WriteLine("Found Bob");}else{Console.WriteLine("Bob not found");}}}}
+    ERROR: Statement cannot appear outside of a method body.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+    ERROR: Character is not valid.
+2025-04-08 02:39:05 - Source Code: 
+using System;using System.Collections.Generic;using System.Linq;namespace TestApp{public class Customer{public int Id{get;set;}public string Name{get;set;}public bool IsActive{get;set;}public Customer(int id,string name,bool isActive){Id=id;Name=name;IsActive=isActive;}}public class Program{static void Main(){var customers=new List<Customer>{new Customer(1,"Alice",true),new Customer(2,"Bob",false),new Customer(3,"Charlie",true)};var activeNames=customers.Where(c=>c.IsActive).Select(c=>c.Name);foreach(var n in activeNames){Console.WriteLine("Active: "+n);}var bob=customers.FirstOrDefault(c=>c.Name=="Bob");if(bob!=null){Console.WriteLine("Found Bob");}else{Console.WriteLine("Bob not found");}}}}
+2025-04-08 02:39:05 - C# code formatted successfully.
