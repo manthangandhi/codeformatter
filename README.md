@@ -25,16 +25,20 @@ The Code Formatter App is a lightweight Windows Forms application designed to fo
 ### Installation
 
 1. **Clone the Repository:**
-
-   git clone https://github.com/yourusername/codeformatter.git
-   cd codeformatter
+    
+    ```
+    git clone https://github.com/yourusername/codeformatter.git
+    cd codeformatter
 
 2. **Restore NuGet Packages:**
-
+    
+    ```
     dotnet restore
 
 3.	**Build the Project:**
-    If you have multiple project or solution files in the repository, specify the project file:
+
+If you have multiple project or solution files in the repository, specify the project file:
+
 
     dotnet build ocodeformat.csproj
 
