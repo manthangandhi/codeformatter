@@ -82,6 +82,6 @@ This project is licensed under the MIT License.
 
 For any issues, queries, or feedback, please contact:
  - Manthan Gandhi
- - Email: manthann@gmail.com
+ - Email: mannthann@gmail.com
 
 Thank you for using Code Formatter App!
